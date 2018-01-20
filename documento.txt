@@ -1,1 +1,1 @@
-este documento mejora la release
+modificamos este archivo tras un error de producción
